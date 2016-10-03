@@ -1,1 +1,5 @@
-# UGR_Disenio_y_Desarrollo_de_Sistemas_de_Informacion
+# UGR Diseño y Desarrollo de Sistemas de Informacion
+
+Practicas de la asignatura Diseño y Desarrollo de Sistemas de Informacion impartida en la ETSIIT en el curso 2015/2016
+
+En esta practica se realiza el Sistema de Información de un aeropuerto así como la implementacion en PostgreSQL de algunos de sus metodos.
